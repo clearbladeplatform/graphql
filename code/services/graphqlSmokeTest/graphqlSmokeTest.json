@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,graphql",
+    "logging_enabled": "false",
+    "name": "graphqlSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "graphqlSmokeTest.js"
+}
